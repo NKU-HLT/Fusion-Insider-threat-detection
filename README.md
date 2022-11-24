@@ -17,6 +17,7 @@ The Dataset used in this work is [CMU-CERT Dataset (versions R-4.2) ](https://re
 * ```HIDDEN_NEURONS``` represents the number of neurons per layer in the AE algorithm.
 * ```K``` and ```L``` are as described in the original paper. 
 
+## references
 <a id="1">[1]</a> 
 Lindauer, Brian (2020): Insider Threat Test Dataset. Carnegie Mellon University. Dataset. https://doi.org/10.1184/R1/12841247.v1 
 
