@@ -1,4 +1,4 @@
-# Fusion-Insider-threat-detection
+# [ICANN 2023: Fusion-Insider-threat-detection](https://link.springer.com/chapter/10.1007/978-3-031-44213-1_2)
 ## Dataset
 The Dataset used in this work is [CMU-CERT Dataset (versions R-4.2) ](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099)[[1]](#1), [[2]](#2). And we use the data preprocessing method of paper [[3]](#3).
 
